@@ -1,1 +1,1 @@
-theme=feature-version 
+theme=resolved-version
